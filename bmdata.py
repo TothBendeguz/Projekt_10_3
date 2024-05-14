@@ -15,12 +15,12 @@ def ora(ev):
     oras = ev*365*24
     print(f'{nev} {oras} órás')
 
-def ora(ev):
+def perc(ev):
     perces = ev*365*24*60
     print(f'{nev} {perces} perces')
 
-def ora(ev):
-    másodperces = ev*365*24*60*60
-    print(f'{nev} {másodperces} másodperces')
+def masodperc(ev):
+    masodperces = ev*365*24*60*60
+    print(f'{nev} {masodperces} másodperces')
 
 nap(ev)
