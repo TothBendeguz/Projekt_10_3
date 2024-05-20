@@ -1,3 +1,0 @@
-karát
-gyűrű
-uncia
